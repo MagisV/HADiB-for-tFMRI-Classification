@@ -1,4 +1,16 @@
-# HADiB-for-tFMRI-Classification
+# Classifying Task Sub-Type States in Temporal fMRI with Temporal Higher-order Patterns
+
+## Introduction
+
+This project represents a pioneering effort to advance functional brain network analysis by adapting a novel machine learning model for the classification of task functional Magnetic Resonance Imaging (t-fMRI) data. Grounded in the innovative "Hypergraph Anomaly Detection in Brain" (HADiB) methodology, originally designed for unsupervised anomaly detection, this research aims to classify cognitive tasks within t-fMRI data from the Human Connectome Project (HCP). By exploring the dynamic interplay of regions of interest (ROIs) during specific tasks, such as differentiating between movements of the left or right hand, the project seeks not only to validate neuroscientific hypotheses but also to provide deeper insights into the brain's complex dynamics.
+
+The significance of understanding brain function during specific tasks cannot be overstated. Insights gained from such understanding promise to propel neuroscientific research into new directions, potentially revolutionizing medical diagnostics and enhancing the development of Brain-Computer Interfaces. This project taps into the evolution of ML-based brain network analysis, transitioning from traditional methods to sophisticated models that incorporate the brain's network representation, temporal dynamics, and higher-order interactions.
+
+## Project Scope
+
+Leveraging the Human Connectome Project 1200 dataset, this project undertakes a comprehensive examination of the HADiB model, identifying its potential for t-fMRI task classification and addressing its limitations. The implementation phase, starting from scratch due to the unavailability of code, challenges and learnings, and the critical analysis of model performance form the core of this endeavor. Ethical considerations, especially the implications of deploying AI for brain scan interpretation, are meticulously addressed.
+
+This README serves as a guide through for training the model and visualising outputs.
 
 
 # Project Setup and Execution Guide
