@@ -70,6 +70,4 @@ Follow these steps to execute the project successfully:
 4. Execute all code cells up to `build_model` to train the model. Training time varies based on parameters.
 5. Set window sizes, compile the model, and fit it by running the cells under "Fitting the Model".
 6. Test the model's generalisability with the provided test set under "Testing".
-7. Optionally, train the model with different combinations of window sizes and tasks, or use k-fold cross-validation as detailed in the project documentation.
-
-For more information or help, refer to the project's documentation or the README file.
+7. Optionally, train the model with different combinations of window sizes and tasks as detailed in the source code comments.
